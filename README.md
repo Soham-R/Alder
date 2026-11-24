@@ -1,5 +1,7 @@
 # Alder — a Primer for the kids the system fails
 
+DEMO: https://drive.google.com/drive/u/1/search?q=video
+
 *(repo: compiled-berkeley hackathon — Compiled Berkeley 2026)*
 A voice-driven AI reading tutor that builds a live, evolving model of how
 *your* child's attention, memory, and emotions actually work — then reshapes every
