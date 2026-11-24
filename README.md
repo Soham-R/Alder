@@ -1,11 +1,7 @@
 # Alder — a Primer for the kids the system fails
 
 *(repo: compiled-berkeley hackathon — Compiled Berkeley 2026)*
-
-> **Living document.** This README adapts as we poke, prod, and question the idea —
-> every hard question that reshapes the design gets recorded here, along with the answer.
-
-**One-liner:** A voice-driven AI reading tutor that builds a live, evolving model of how
+A voice-driven AI reading tutor that builds a live, evolving model of how
 *your* child's attention, memory, and emotions actually work — then reshapes every
 lesson, pacing decision, and even the screen's sounds and colors around it. Built first
 for neurodivergent kids (ADHD, dyslexia, autism), where "one-size-fits-most" already
